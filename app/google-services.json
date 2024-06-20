@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173519896442",
+    "project_id": "lakareasemobile",
+    "storage_bucket": "lakareasemobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173519896442:android:2513503a621876661e60c3",
+        "android_client_info": {
+          "package_name": "com.lakareasemobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3IZf4AdJxC4m8Ua0Q7Lo55beWWQsYVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
